@@ -1,0 +1,7 @@
+li a.active {
+    background-color: slateblue;
+    color: white;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
